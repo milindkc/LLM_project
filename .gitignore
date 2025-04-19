@@ -6,6 +6,10 @@ __pycache__/
 # C extensions
 *.so
 
+# ignore this files and folder
+/.env 
+/openai_env
+
 # Distribution / packaging
 .Python
 build/

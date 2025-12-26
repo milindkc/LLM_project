@@ -3,4 +3,4 @@
 pip install -r requirements.txt
 
 ## Activate Virtual env
-source openai_env/bin/activate
+openai_env\Scripts\activate
